@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MOHIT SHARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img algin="right alt="coding" width="400" src=""C:\Users\mohit\Downloads\9070324cdfc07c68d60eed0c39e77573.gif"">
+<img algin="right alt="coding" width="400" src="<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/a554e7cb-c032-4b4e-b80e-7f2ea3aa8609" />
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit00019&label=Profile%20views&color=0e75b6&style=flat" alt="mohit00019" /> </p>
 
