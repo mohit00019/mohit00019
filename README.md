@@ -1,3 +1,4 @@
+![logo](https://github.com/mohit00019/mohit00019/blob/main/ChatGPT%20Image%20Jul%2011%2C%202026%2C%2003_49_59%20PM.png)
 <h1 align="center">Hi 👋, I'm MOHIT SHARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
